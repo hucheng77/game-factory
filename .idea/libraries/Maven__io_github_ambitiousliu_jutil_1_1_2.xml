@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.github.ambitiousliu:jutil:1.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/apache-maven-3.8.1/repository/io/github/ambitiousliu/jutil/1.1.2/jutil-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/apache-maven-3.8.1/repository/io/github/ambitiousliu/jutil/1.1.2/jutil-1.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/apache-maven-3.8.1/repository/io/github/ambitiousliu/jutil/1.1.2/jutil-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

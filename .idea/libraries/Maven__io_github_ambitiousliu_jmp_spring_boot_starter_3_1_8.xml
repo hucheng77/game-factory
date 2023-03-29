@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.github.ambitiousliu:jmp-spring-boot-starter:3.1.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/apache-maven-3.8.1/repository/io/github/ambitiousliu/jmp-spring-boot-starter/3.1.8/jmp-spring-boot-starter-3.1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/apache-maven-3.8.1/repository/io/github/ambitiousliu/jmp-spring-boot-starter/3.1.8/jmp-spring-boot-starter-3.1.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/apache-maven-3.8.1/repository/io/github/ambitiousliu/jmp-spring-boot-starter/3.1.8/jmp-spring-boot-starter-3.1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
